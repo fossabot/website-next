@@ -1,0 +1,15 @@
+@import url('https://rsms.me/inter/inter.css');
+
+@tailwind base;
+
+@import 'copy';
+@import 'page';
+
+body {
+    font-feature-settings: 'ss02';
+}
+
+
+@tailwind components;
+
+@tailwind utilities;

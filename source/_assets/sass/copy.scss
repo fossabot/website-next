@@ -1,0 +1,10 @@
+.copy {
+    a {
+        color: theme('colors.brand');
+        text-decoration: underline;
+
+        &:hover {
+            opacity: 0.9;
+        }
+    }
+}
